@@ -1,0 +1,12 @@
+
+
+
+Welcome to the Hotspot Shield tool.
+This tool lets you see the status, real time!
+Make sure you are connected before using this!
+
+Press CTRL+C at any time to terminate this program.
+
+Use these arguments:
+
+./HotspotShieldTool s 
